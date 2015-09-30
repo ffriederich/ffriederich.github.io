@@ -50,19 +50,22 @@ table {
 	border-spacing: 0;
 }
 
-nav {float:left;
+nav {float:top;
  margin:20px;
  padding:10px;
  display:block;
 }
 
-ul {float:bottom;
+li {list-style:none;
+	float:bottom;
 	text-indent: 20px;
 	line-height:1.3;
 	text-size:10px;
 }
 
-h2 {text-transform: uppercase;}
+h1 {text-transform: uppercase;}
+
+h2 {text-size:15px; }
 /* END RESET */
 
 
