@@ -60,17 +60,11 @@ h1 {
 h2 {
 	font-color:gray;
 }
-#article1 {
-	float:left;
-	padding-left:30px;
-}
-#article2{
-	float:right;
-	padding-right:50px;
-}
+
 article {
 	padding-top:20px;
 	width:40%;
+	float:left;
 }
 
 /* -----------------END RESET---------------- */
