@@ -50,15 +50,8 @@ table {
 	border-spacing: 0;
 }
 
-.deck-container .slide-list h3 {
-    margin-left: 2em;
-    text-align: left;
-    color: #444444;
-    margin-bottom: .3em;
-    line-height: 1.6em;
-}
-	
-		
+p {float:left;}
+
 /* -----------------END RESET---------------- */
 
 
