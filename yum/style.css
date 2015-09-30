@@ -56,11 +56,13 @@ nav {float:left;
  display:block;
 }
 
-li {float:bottom;
+ul {float:bottom;
 	text-indent: 20px;
 	line-height:1.3;
 	text-size:10px;
 }
+
+h2 {text-transform: uppercase;}
 /* END RESET */
 
 
