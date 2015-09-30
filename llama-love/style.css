@@ -50,15 +50,13 @@ table {
 	border-spacing: 0;
 }
 
-img {float:left;}
- 
-h1 {font-size:25px;}
-
-h2 {font-size:9px;
-	color:gray;
-	opacity:50;}
-	
-p {	font-size:11px;}
+.deck-container .slide-list h3 {
+    margin-left: 2em;
+    text-align: left;
+    color: #444444;
+    margin-bottom: .3em;
+    line-height: 1.6em;
+}
 	
 		
 /* -----------------END RESET---------------- */
