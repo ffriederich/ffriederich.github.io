@@ -62,9 +62,17 @@ nav{
 	padding:40px;
 	height: 60px;
 }
+
+article {
+	float:left;
+	width:40%;
+}
+
 section {
 	 clear:both;
  }
  
-
+ img {
+	 width:50%;
+ }
  
