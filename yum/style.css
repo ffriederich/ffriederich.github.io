@@ -50,14 +50,14 @@ table {
 	border-spacing: 0;
 }
 
-nav {float:top;
+nav {float:left;
  margin:20px;
- padding:10px;
+ padding:10em;
  display:block;
 }
 
 li {list-style:none;
-	float:bottom;
+	text-indent:20px;
 	line-height:1.3;
 	text-size:10px;
 }
