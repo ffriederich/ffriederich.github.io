@@ -50,17 +50,15 @@ table {
 	border-spacing: 0;
 }
 
+img {float:left;}
+ 
+h1 {font-size:25px;}
 
-h1 {float:left;
-	font-size:25px;}
-
-h2 {float:left;
-	font-size:9px;
+h2 {font-size:9px;
 	color:gray;
 	opacity:50;}
 	
-p {float:left;
-	font-size:11px;}
+p {	font-size:11px;}
 	
 		
 /* -----------------END RESET---------------- */
