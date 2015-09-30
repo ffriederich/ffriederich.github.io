@@ -50,7 +50,7 @@ table {
 	border-spacing: 0;
 }
 
-nav {float:left;
+nav {float:top;
  margin:20px;
  padding:10em;
  display:block;
