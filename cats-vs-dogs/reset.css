@@ -1,0 +1,13 @@
+li {
+   list-style:circle;
+   float:left;
+   margin:10px;
+   background-color:white;
+   padding:7px 14px;
+ }
+ 
+ h3 {float:left;
+	 text-size:15px;}
+ h4{float:left;
+	 text-size:9px;}
+ 
