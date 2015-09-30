@@ -65,29 +65,10 @@ nav li{
 	border-bottom:3px solid black;
 }
 
-#maincontent {clear: both;}
 
 article {padding: 30px;}
 
-#cats {
-	width:40%;
-	float:left;
-}
-#dogs {
-	width:40%;
-	float:left;
-}
 
-.li1 {
-	float:left;
-}
-.li2 {
-	float:right;
-}
-footer {
-	border-top: 2px solid black;
-	margin:10px;
-}
 h2{
 	font-size:20px;
 	font-style:bold;
