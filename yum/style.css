@@ -10,9 +10,9 @@ ol {
     list-style:none;
     float:left;
     margin:10px;
+    background-color:white;
     padding:7px 14px;
     text-transform:uppercase;
- 
   }
 
 h1 {text-transform: uppercase;}
