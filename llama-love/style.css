@@ -49,9 +49,7 @@ table {
 }
 
 /* -----------------END RESET---------------- */
-#main-content {
-	background-color:lightgray;
-	font-family:Helvetica;
+#main-content {font-family:Helvetica;
 	font-size:10px;
 }
 h1 {
@@ -74,6 +72,8 @@ article {
 	width:40%;
 }
 
+img {float:left;}
+}	
 /* -----------------END RESET---------------- */
 
 
