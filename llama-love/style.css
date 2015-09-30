@@ -50,7 +50,13 @@ table {
 	border-spacing: 0;
 }
 
-p {float:left;}
+section {float:left;
+}
+h1 {text-size:25px;
+}
+h2 {text-size:9px;
+	color:gray;}
+p {text-size:12; }	
 
 /* -----------------END RESET---------------- */
 
