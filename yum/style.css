@@ -5,15 +5,13 @@ nav {float:top;
  display:block;
 }
 
-li {
+ol {
     list-style:none;
     float:left;
     margin:10px;
-    background-color:teal;
     padding:7px 14px;
-    color:white;
     text-transform:uppercase;
-    font-family:Helvetica;
+ 
   }
 
 h1 {text-transform: uppercase;}
