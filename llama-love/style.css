@@ -68,6 +68,10 @@ h2 {
 	float:right;
 	padding-right:50px;
 }
+article {
+	padding-top:20px;
+	width:40%;
+}
 
 /* -----------------END RESET---------------- */
 
