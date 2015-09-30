@@ -50,33 +50,19 @@ table {
 
 /* -----------------END RESET---------------- */
 
-header{
-	text-align:center;
-	padding-top:10px;
-}
-nav li{
-	font-size:20pt;
-	text-transform:uppercase;
+nav li { 
 	float:left;
-	list-style-type:disc;
-	padding:15px;
-    list-style-position: inside;
-	border-top:3px solid black;
-	border-bottom:3px solid black;
+	margin:20px;
 }
 
-
-article {padding: 30px;}
-
-
-h2{
-	font-size:20px;
-	font-style:bold;
-	padding-bottom:5px;
+nav{ 
+	border-top:2px solid black;
+	margin-top:40px;
+	border-bottom:2px solid black;
 }
-#skip {
-	list-style-type:none;	
-}
-
+section {
+	 clear:both;
+ }
+ 
 
  
