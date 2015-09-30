@@ -1,10 +1,13 @@
-section {float:left;
+img {float:left;}
 }
-h1 {text-size:25px;
+h1 {float: left;
+	text-size:25px;
 }
-h2 {text-size:9px;
+h2 {float:left;
+	text-size:9px;
 	color:gray;}
-p {text-size:12; }	
+p {float:left;
+	text-size:12; }	
 
 /* -----------------END RESET---------------- */
 

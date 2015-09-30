@@ -1,5 +1,6 @@
 
-nav {float:top;
+nav {list-style:none;
+	float:top;
  margin:20px;
  padding:10em;
  display:block;
