@@ -50,12 +50,10 @@ table {
 
 /* -----------------END RESET---------------- */
 
-nav li { 
+
+#nav{ 
 	float:left;
 	margin:20px;
-}
-
-nav{ 
 	border-top:2px solid black;
 	margin-top:40px;
 	border-bottom:2px solid black;
@@ -63,7 +61,7 @@ nav{
 	height: 60px;
 }
 
-article {
+#article {
 	float:left;
 	width:40%;
 }
