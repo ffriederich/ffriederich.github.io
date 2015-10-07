@@ -50,6 +50,8 @@ table {
 
 /* -----------------END RESET---------------- */
 
+#logo{display:line-block;
+	text-align:center;}
 
 #nav{ 
 	float:left;
