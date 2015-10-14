@@ -49,25 +49,53 @@ table {
 }
 
 /* -----------------END RESET---------------- */
-#main-content {
-	font-family:Helvetica;
-	font-size:10px;
+	
+body{
+	
+	font-family:helvetica;
+	font-size: 12px;
+	line-height:20px;
+
+	
+	
+	
 }
-h1 {
-	font-size:20px;
-	font-style:bold;
+section{
+	
+	margin:20px;
 }
-h2 {
-	font-color:gray;
+
+h1{font-family:helvetica;
+   font-size:18px;
+   font-weight:bold;
 }
+
+
+
+h2{
+	font-family:helvetica;
+	font-size:9px;
+}
+
 
 article {
-	padding-top:20px;
-	width:40%;
-	float:left;
+		float:left;
+		margin-right:20px;
+		width: 500px;
+		padding:20px;
+	
+}
+p{
+	margin:10px;
 }
 
-img {float:left;}
+img{
+	float:left;
+	margin: 0px 15px 15px 0px;
+	
+}
+
+
 
 
 /* -----------------END RESET---------------- */
