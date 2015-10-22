@@ -59,41 +59,34 @@ body {border-left: 2px solid black;
 
 	#lol{
 		float:left;
-		width:15%;
-		margin-left:200px;
-		margin-top:-40px;
+		margin-left:500px;
 	
 	}
+
 
 
 #lala {
     list-style:none;
 	float:left;
-	width:15%;
-	margin-top:35px;
-	margin-left:15px;
+	width:70%;
+	margin-top:13px;
+	margin-left:50px;
 	font-size:12px;
 }
     
   
 
 #contenido{
-	float:left;
-	float:left;
-	width:30%;
-	margin-top:265px;
-	margin-left:-180px;
-	font-size:12px;
+	float:left;<!DOC html>
 }
 
-h2 {position:relative;
-	font-size:18px;}	
+h2 {position:relative;}	
 
 #segundo {
 	-webkit-transform:rotate(270deg);
 	position:absolute;
-	bottom:260px;
-	left:-15px;
+	bottom:300px;
+	left:-13px;
 	
 }
 
@@ -101,18 +94,11 @@ h2 {position:relative;
 #primero {
 	-webkit-transform:rotate(270deg);
 	position:absolute;
-	top:190px;
-	left:-15px;
+	top:150px;
+	left:-13px;
 }
 
 #pata {
-	float:left;
-	margin-left:-50px;
-	margin-top:500px;
-}
-
-#next{
-	float:left;
-	margin-left:-430px;
-	margin-top:550px;
+	margin-bottom:0px;
+	margin-left:500px;
 }
