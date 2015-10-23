@@ -70,7 +70,7 @@ nav li{
 
 nav{
 	border-top: 5px solid black;
-	margin-top:40px;
+	margin-top:35px;
 	border-bottom: 5px solid black;
 	padding:10px;
 	height:50px;
@@ -80,8 +80,9 @@ nav{
 
 	}
 	
-	ul{
+	ol{
 		text-align:center;
+		margin-top:-7px;
 	}
 
 h1{
@@ -97,18 +98,27 @@ article{
 	padding:40px;
 	float:left;
 	font-size:20px;
+	margin-left:30px;
+	margin-top:70px;
 	
 }
 
 p{
 	margin-top:10px;
+	font-size:15px;
 }
 
 #logo{
-	display:block;
-	text-align:center;
+text-align:center;
+padding:50%;	
 }
 
+#article1 img{
+	width:95%;
+}
+#article2 img{
+	width:75%;
+}
 
 
 footer{
