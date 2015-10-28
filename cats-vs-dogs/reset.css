@@ -53,10 +53,8 @@ table {
 body{
 	margin:50px;
 	
-	
-	
+		
 }
-
 
 nav li{
 	display:inline-block;
@@ -108,9 +106,8 @@ p{
 	font-size:15px;
 }
 
-#logo{
-text-align:center;
-padding:50%;	
+header img {
+	margin-left:350px;
 }
 
 #article1 img{
