@@ -53,12 +53,14 @@ table {
 
 #este {
 	border-left: 1px solid black;
-	margin-left:45px;
-	margin-top:120px;
-	margin-bottom:80px;
 
 }
 
+body{
+	margin-left:45px;
+	margin-top:120px;
+	margin-bottom:80px;
+}
 
 	#lol{
 		float:left;
