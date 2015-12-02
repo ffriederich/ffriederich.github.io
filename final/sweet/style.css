@@ -49,65 +49,37 @@ table {
 }
 
 /* -----------------END RESET---------------- */
+body
+{
+background: black; 
+}
+
+h1 {font-size: 15px;
+color: white;
+font-family: "proxima nova";}
+
 #header-wrapper {
-	height:80px;
+	padding: 0% 25% 0% 10%;
+	height:"100";
+	width:"300";
+}
 	
-}
+#main-menu {
+		background-color: ;
+		text-transform: ;
+		font-weight: 700;
+		width: 100%;
+		font-family: "proxima nova";
+	}
+	#main-menu a{
+		color: white;
+		text-decoration: none;
+	}
 
-header {
-	position:fixed;
-    background-color:rgbs(255,255,255,.5);
-}
-
-header h1 { 
-	float:left;
-	font-size:50px;
-	font-weight:bold;
-	color:teal;	
-	margin-right:20px;
-	margin-top:30px;
-}
-
-#menu { float:left;}
-
-#menu ul {  
-    list-style:none;  
-    width:650px;  
-    margin:30px auto 0px auto;  
-    height:43px;  
-	margin-top:50px;
-    padding:0px 20px 0px 20px;  
-}
-
-
-#menu li {  
-    float:left;  
-    display:block;  
-    text-align:center;  
-    position:relative;  
-    padding: 6px 15px;  
-    margin-right:50px;  
-    border: 1px solid white;  
-}
-
-#menu li:hover {  
-    border: 1px solid #E0E0E0;  
-    background: #F4F4F4;  
-
-}
-
-
-#menu li a {  
-    font-family:Arial, Helvetica, sans-serif;  
-    font-size:14px;  
-    color: gray;  
-    display:block;  
-    outline:0;  
-    text-decoration:none;  
-}
-
-#menu li ul {
-	display:none;
-	position:absolute;
-	top:20px;
-}
+	#main-menu li{
+		display: inline-block;
+		margin: 10px 0px 10px 0px;
+		padding-right: 50px;
+	}
+	
+	
