@@ -59,7 +59,7 @@ line-height:150%;
 text-decoration:none;
 }
 
-h1 {
+h2 {
 color: white;
 font-family: "proxima nova";
 line-height:150%;
@@ -68,9 +68,30 @@ padding-top:250px;
 padding-left:460px;
 letter-spacing: 10px;}
 
+#main-menu {
+	background-color: ;
+	text-transform: ;
+	font-weight: 700;
+	width: 100%;
+	font-family: "proxima nova";
+	font-size: 15px;
+	color: white;
+	}
+	#main-menu a{
+		color: white;
+		text-decoration: none;
+	}
+
+	#main-menu li{
+		display: inline-block;
+		margin-left: 90px;
+		padding-right: 50px;
+	}
+ 
+
 #image {position:relative;}
 
 #jaja {position:absolute;
-	top:380px;
+	top:480px;
 	left:510px;}
 
