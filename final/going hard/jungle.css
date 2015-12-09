@@ -148,8 +148,8 @@ p {padding-bottom:10px;
 	width:100%;}
 
 #lista1 { position:absolute;
-	top:-110px;
-	right:250px;
+	top:90px;
+	right:380px;
 	font-size: 12px;
 		color: white;
 		font-family: "proxima nova";
@@ -166,8 +166,8 @@ p {padding-bottom:10px;
 			}
 			
 #lista2 { position:absolute;
-				top:30px;
-				left:-520px;
+				top:480px;
+				left:480px;
 				font-size: 12px;
 					color: white;
 					font-family: "proxima nova";
@@ -175,10 +175,5 @@ p {padding-bottom:10px;
 				}
 #abajo {position:relative;}
 #abajo1{position:absolute;
-	left:60px;
-	bottom:-350px;}
-
-	
-
-	
-	
+	left:1030px;
+	bottom:-700px;}
