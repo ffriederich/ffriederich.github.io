@@ -1,0 +1,105 @@
+/* Meyer Reset */
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+/* -----------------END RESET---------------- */
+
+body
+{
+background: black; 
+text-decoration:none;
+font-size: 40px;
+color: black;
+font-family: "proxima nova";
+line-height:150%;
+text-decoration:none;
+}
+
+h1 {font-size: 90px;
+color: white;
+font-family: "bree";
+line-height:150%;
+padding:85px;
+padding-left:460px;
+letter-spacing: 10px;}
+
+
+
+#lala {position:relative;}
+
+#s{position:absolute;
+	bottom:-180px;
+	left:600px;} 
+	
+
+#g{position:absolute;
+		bottom:-510px;
+		left:570px;} 	
+		
+#b{position:absolute;
+		bottom:-850px;
+		left:620px;} 	
+				
+#c{position:absolute;
+			bottom:-1170px;
+			left:560px;} 
+			
+#o{position:absolute;
+			bottom:-1480px;
+			left:590px;} 
+					
+		
+		
+		
+		
+		
+		
+		
+		
+		
