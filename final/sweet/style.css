@@ -54,25 +54,48 @@ body
 background: black; 
 }
 
-h1 {font-size: 20px;
+h1 {font-size: 40px;
+color: white;
+font-family: "proxima nova";
+line-height:150%;}
+
+h2 {font-size: 20px;
+color: white;
+font-family: "proxima nova";
+line-height:150%;}
+
+h3 {font-size: 15px;
 color: white;
 font-family: "proxima nova";}
 
-h2 {font-size: 15px;
-color: white;
+h4 {font-size: 15px;
+color: yellow;
 font-family: "proxima nova";}
 
-#sidebar{
-	float: right;
-	width: 270px;
+p {padding-bottom:10px;
+	font-size: 15px;
+	color: white;
+	font-family: "proxima nova";}
+
+#name {position:relative;}
+#webname {position:absolute;
+	top:13px;
+	left:50px;}
+
+#sidebar{position:relative;
+	width: 90%;
+	font-family: "proxima nova";
+	font-size: 11pt;
+	font-weight: 400;
+	padding-bottom: 10px;
 }
 
 
-#sidebar li {
-	font-size: 11pt;
-	font-family: "proxima nova";
-	font-weight: 400;
-	padding-bottom: 10px;
+#sidebar2 {
+	position:absolute;
+	bottom:-200px;
+	left:1000px;
+	line-height:150%;
 }
 
 #sidebar a{
@@ -85,6 +108,7 @@ font-family: "proxima nova";}
 }
 #cuadro1 { position:absolute;
 	top:70px;
+	left:10px;
 	
 }
 	
@@ -106,25 +130,52 @@ font-family: "proxima nova";}
 		padding-right: 50px;
 	}
 
-#cuadro2 {font-size: 12px;
+#cuadro2 {position:relative;
+	font-size: 12px;
 	color: white;
-	font-family: "proxima nova";}	
+	font-family: "proxima nova";}
+	
+#cuadro2lala {position:absolute;
+	top:390px;
+	left:10px;
+	font-size: 12px;
+		color: white;
+		font-family: "proxima nova";
+	line-height:150%;}		
 	
 #listalala{position:relative;}
 
 #lista1 { position:absolute;
-	top:-5px;
+	top:110px;
 	right:500px;
 	font-size: 12px;
 		color: white;
 		font-family: "proxima nova";
+		line-height:150%;
 	}
+	
+#listalala2{ position:relative;}
 			
 #lista2 {font-size: 12px;
 				color: white;
 				font-family: "proxima nova";
 				
-				
+			}
+			
+#lista2 { position:absolute;
+				top:300px;
+				left:471px;
+				font-size: 12px;
+					color: white;
+					font-family: "proxima nova";
+					width:35%;
+				}
+#abajo {position:relative;}
+#abajo1{position:absolute;
+	left:1100px;
+	bottom:-600px;}
+
+	
 
 	
 	

@@ -1,0 +1,178 @@
+/* Meyer Reset */
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+/* -----------------END RESET---------------- */
+body
+{
+background: black; 
+}
+
+h1 {font-size: 40px;
+color: white;
+font-family: "proxima nova";
+line-height:150%;}
+
+h2 {font-size: 20px;
+color: white;
+font-family: "proxima nova";
+line-height:150%;}
+
+h3 {font-size: 15px;
+color: white;
+font-family: "proxima nova";}
+
+h4 {font-size: 15px;
+color: yellow;
+font-family: "proxima nova";}
+
+p {padding-bottom:10px;
+	font-size: 15px;
+	color: white;
+	font-family: "proxima nova";}
+
+#name {position:relative;}
+#webname {position:absolute;
+	top:13px;
+	left:50px;}
+
+#sidebar{position:relative;
+	width: 90%;
+	font-family: "proxima nova";
+	font-size: 11pt;
+	font-weight: 400;
+	padding-bottom: 10px;
+}
+
+
+#sidebar2 {
+	position:absolute;
+	bottom:-200px;
+	left:1000px;
+	line-height:150%;
+}
+
+#sidebar a{
+	color: white;
+	text-decoration: none;
+}
+
+#video { position:relative;
+	 
+}
+#cuadro1 { position:absolute;
+	top:70px;
+	left:10px;
+	
+}
+	
+#main-menu {
+		background-color: ;
+		text-transform: ;
+		font-weight: 700;
+		width: 100%;
+		font-family: "proxima nova";
+	}
+	#main-menu a{
+		color: white;
+		text-decoration: none;
+	}
+
+	#main-menu li{
+		display: inline-block;
+		margin-left: 90px;
+		padding-right: 50px;
+	}
+
+#cuadro2 {position:relative;
+	font-size: 12px;
+	color: white;
+	font-family: "proxima nova";}
+	
+#cuadro2lala {position:absolute;
+	top:390px;
+	left:10px;
+	font-size: 12px;
+		color: white;
+		font-family: "proxima nova";
+	line-height:150%;}		
+	
+#listalala{position:relative;}
+
+#lista1 { position:absolute;
+	top:110px;
+	right:620px;
+	font-size: 12px;
+		color: white;
+		font-family: "proxima nova";
+		line-height:150%;
+	}
+	
+#listalala2{ position:relative;}
+			
+#lista2 {font-size: 12px;
+				color: white;
+				font-family: "proxima nova";
+				
+			}
+			
+#lista2 { position:absolute;
+				top:250px;
+				left:471px;
+				font-size: 12px;
+					color: white;
+					font-family: "proxima nova";
+					width:35%;
+				}
+#abajo {position:relative;}
+#abajo1{position:absolute;
+	left:1100px;
+	bottom:-600px;}
+
+
